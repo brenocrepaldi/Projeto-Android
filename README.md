@@ -9,4 +9,4 @@ O projeto é para meios educativos e nele foram trabalhados as seguintes habilid
 - Manipulação de imagens e vídeos;
 - Conceitos de design (paleta de cores e fontes);
 - Uso de links externos e internos;
-- Responsividade;
+- Responsividade.
